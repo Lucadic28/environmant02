@@ -1,0 +1,10 @@
+environment: test1
+welcomeMsg2: Hello from Test
+server:
+  port:  4000
+---
+environment: prod
+welcomeMsg: Hello form Prod
+server:
+  port:  5000
+
